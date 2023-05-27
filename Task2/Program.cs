@@ -16,3 +16,5 @@ double x = -(b1 - b2) / (k1 - k2);
 double y = k1 * x + b1;
 
 Console.Write($"\n Point of intersection of two lines: [{x};{y}]");
+
+Console.WriteLine("\n");
