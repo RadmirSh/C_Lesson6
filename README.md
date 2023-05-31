@@ -1,6 +1,6 @@
 # C#Lessons_HW6 :floppy_disk:
 
-**<ins>Task1</ins>** Решение задач 41 и 43
+**<ins>Tasks</ins>** Решение задач 41 и 43
    
 - [x] Done - [decision_of_Tasks](https://github.com/RadmirSh/C_Lesson6/blob/main/Tasks/Program.cs)
   ___
